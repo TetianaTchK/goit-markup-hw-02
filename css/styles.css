@@ -6,7 +6,8 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
-  color: #ffffff;
+  color: #434455;
+  background-color: #ffffff;
 }
 .list {
   list-style: none; /*відмінити маркер*/
@@ -61,7 +62,6 @@ body {
 }
 .header-menu-item {
 }
-
 .header-address {
   font-style: normal;
 }
@@ -245,7 +245,6 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
 }
 .footer-logo-two {
   font-weight: 800;
