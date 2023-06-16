@@ -49,7 +49,6 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
 }
 .header-logo-two {
   font-weight: 800;
@@ -78,6 +77,12 @@ body {
   color: #404bbf;
 }
 .header-link:focus {
+  color: #404bbf;
+}
+.header-list:hover {
+  color: #404bbf;
+}
+.header-list:focus {
   color: #404bbf;
 }
 .header-address {
