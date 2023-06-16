@@ -79,12 +79,6 @@ body {
 .header-link:focus {
   color: #404bbf;
 }
-.header-list:hover {
-  color: #404bbf;
-}
-.header-list:focus {
-  color: #404bbf;
-}
 .header-address {
   font-size: 16px;
   line-height: 1.5;
